@@ -18,3 +18,10 @@ ng g c component-name
 
 # Folder aliases
 
+
+# Angular Material
+
+https://material.angular.io/guide/getting-started
+
+npm install --save @angular/material @angular/cdk @angular/animations
+
