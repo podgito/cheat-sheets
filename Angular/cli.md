@@ -25,3 +25,4 @@ https://material.angular.io/guide/getting-started
 
 npm install --save @angular/material @angular/cdk @angular/animations
 
+https://angular.io/guide/cheatsheet
